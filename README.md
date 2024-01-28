@@ -1,4 +1,4 @@
-# Test task from LighTech
+# Test task for LighTech
 _This code decides tasks described in <a href="https://docs.google.com/document/d/1zCC8fZwi9Zs2I77d-NbQP0GXVYQ7dI_snYO1g-fFjTg/mobilebasic"> this technical requirements </a>. You can test API running code local by uvicorn server. For this you might do next some steps._
 
 ## Installation
