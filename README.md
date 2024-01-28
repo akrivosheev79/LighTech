@@ -55,7 +55,7 @@ To retrieve balance of current authorizated user invoke `transaction/retrieve` e
 So it possible when user's balance will update, but transaction detail won't commit to DB. We all
 understand inadmissibility that in production.
 3. There are no any logging functionality in this API. To do it in production.
-4. Server port and ip address was hardcode for simplicity. In production config will need. 
+4. Server port and ip address was hardcoded for simplicity. In production config will need. 
 
 ## License
 Only LighTech employees or outsourcing by them employees can use this API
