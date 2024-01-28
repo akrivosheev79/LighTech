@@ -37,7 +37,7 @@ __*While following all below steps use [documentation](http://localhost:8080/doc
 ready to use `curl` code snippets there*__ 
 
 ### Login
-Sign in by created user to API by invoke signin endpoint and save your token. 
+Sign in by created user to API by invoke `user/signin` endpoint and save your token. 
 It will be needed in future steps
 
 ### Increase balance
